@@ -1,0 +1,8 @@
+{
+  "name": "Tulip Studio at Chic's Beach | Virginia Beach Vacation Rental",
+  "description": "Cozy 1-bedroom studio at 4709 Tulip Dr, Virginia Beach, just 5 minutes from Chic's Beach. Features two queen beds, private kitchen, high-speed Wi-Fi, and a dedicated digital nomad workspace from $98/night.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
